@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-e0dd1ee6d5a9a415549ad7366258d92f6325867c.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d3af4ea3283c20ef3defe9e6c51a82dee5409a2f.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-bbbc3f00f46f43e771ce0136f0120947b13e3ea4.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-0aab851774d1083a27026bb6f1c862983a3e540e.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-17970d661bd3ed5463e0730acf671abec4102eb2.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-4223796f070e7be6d99f513d1f72c726dcec48e8.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-e324fffc4a4f360471a7946ec820f63437327868.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-09f4e1828f7aa68cf474558855300345b191d115.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-51dec1f9eaa003c5e1243cb35d8cb54bdcd57339.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-3964e167e4c358f13d35633d29b056f43f431029.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-556dec2a6a455e5b30a0d89fd664fff3ee729063.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-d47c9c9ed51ee9e19fa0b6ef8032855b97cd4ed4.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-589fbf631c94ac12d8da8fb28898124a0771e4ec.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-83e2afa14baad39fca32656a3489b8b36541aa77.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-147c1a6b9d47f124f7ab79546d0253c18444e458.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-dc00526cd048e5f5388affdd3dbc50e928438687.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-a174e7e7c568b36d0d413acf0ca667439a347fc2.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-faab1925c371ba9aac3a947cc75e43a93801468b.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-884f45336125d7e88abc852c6677519834ae5660.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-11c149b28870782abd933aa4b691ac668091859d.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-a35b67cd9c66a08099655d1149afb56f2495298f.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/gson-2.3.1-27dd747934914d7e5146f096c1d9593ff6901e91.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-8435c7f91900c9206eea6d83be67a1770dd1972d.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-2ad0afb78fc39b2994cb452cbc8d1e8774dc602f.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-be3fbb11cf21b1e8a21177a547817c2553cb0ba4.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-279c587e45fbb87b86cec26eff761dc4854bc26d.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-d88f97998eddd3ce4da9410c17bc1f8e84ae7f68.jar" />
+    </item>
+    <item
+        jar="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/home/roberto/Projetos/Pricetag/PriceTag/app/build/intermediates/pre-dexed/debug/classes-6d0e39241618c70fe1d9f3cfa6fd821bbfe8cbe5.jar" />
+    </item>
+
+</items>
